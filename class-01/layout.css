@@ -1,6 +1,7 @@
 @media(min-width:768px){ 
   div {
     float: left;
+    border: 3px solid green;
   }
 
   body {
@@ -54,15 +55,4 @@
 #footer {
   width: 480px;
   height: 80px;
-}  
-  @media(min-width:768px){ 
-    div {
-      float: left;
-    }
-  
-    body {
-      margin: auto;
-      width: 900px;
-    }
-  }
-  
+}    
